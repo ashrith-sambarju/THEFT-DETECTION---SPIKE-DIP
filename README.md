@@ -36,10 +36,10 @@ Below are the visual outputs from the detection system:
 ![Load Pattern](https://github.com/ashrith-sambarju/THEFT-DETECTION---SPIKE-DIP/issues/3)
 
 ### 4. Weekday VS Weekend Consumption Analysis
-![Event Details](PASTE_LINK_4_HERE)
+![Weekday VS Weekend Analysis](https://github.com/ashrith-sambarju/THEFT-DETECTION---SPIKE-DIP/issues/5)
 
 ### 5. Event Audit & Theft Cues Table
-![Event Details](PASTE_LINK_4_HERE)
+![Event Details](https://github.com/ashrith-sambarju/THEFT-DETECTION---SPIKE-DIP/issues/4)
 
 ## Installation and Setup
 1. **Create Virtual Environment**:
