@@ -30,10 +30,10 @@ Below are the visual outputs from the detection system:
 ![Dashboard Overview](https://github.com/ashrith-sambarju/THEFT-DETECTION---SPIKE-DIP/issues/1#issue-3792355882)
 
 ### 2. Theft Detection Timeline (Hybrid Anomaly Score)
-![Anomaly Timeline](PASTE_LINK_2_HERE)
+![Anomaly Timeline](https://github.com/ashrith-sambarju/THEFT-DETECTION---SPIKE-DIP/issues/2)
 
 ### 3. Parameter Load Pattern (Normalized Day View)
-![Load Pattern](PASTE_LINK_3_HERE)
+![Load Pattern](https://github.com/ashrith-sambarju/THEFT-DETECTION---SPIKE-DIP/issues/3)
 
 ### 4. Event Audit & Theft Cues Table
 ![Event Details](PASTE_LINK_4_HERE)
