@@ -27,7 +27,7 @@ The project follows a structured sequence from raw data to final audit:
 Below are the visual outputs from the detection system:
 
 ### 1. Main Overview & Key Metrics
-![Dashboard Overview](PASTE_LINK_1_HERE)
+![Dashboard Overview](https://github.com/ashrith-sambarju/THEFT-DETECTION---SPIKE-DIP/issues/1#issue-3792355882)
 
 ### 2. Theft Detection Timeline (Hybrid Anomaly Score)
 ![Anomaly Timeline](PASTE_LINK_2_HERE)
